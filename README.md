@@ -1,11 +1,17 @@
-# Calculator Project
+# 🧮 Calculator (Python)
 
-A simple calculator built using python.
+This is a simple calculator built using Python.
 
 ## Features
-- Basic operations (+, -, *, /)
-- Clean UI
-- Responsive design
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-## How to use
-Open the website and start calculating!
+## How to Run
+1. Install Python
+2. Run the file:
+   python calculator.py
+
+## Author
+Shainy
